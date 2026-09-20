@@ -40,8 +40,6 @@
   <img src="https://skillicons.dev/icons?i=sklearn" width="60" alt="Scikit-learn"/>
 </p>
 
-### 🧠 Generative AI & Tools
-
 
 <h3>🧠 Generative AI & AI Agents</h3>
 
@@ -64,7 +62,6 @@
   <img src="https://skillicons.dev/icons?i=github" width="60" alt="GitHub"/>
 </p>
 
-**AI & GenAI:** RAG • LangChain • ChromaDB • Gemini API • Google ADK • AI Agents • Streamlit
 
 ### ☁️ Currently Exploring
 
