@@ -42,6 +42,23 @@
 
 ### 🧠 Generative AI & Tools
 
+
+<h3>🧠 Generative AI & AI Agents</h3>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/RAG-412991?style=for-the-badge&logo=bookstack&logoColor=white" alt="RAG"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logoColor=white" alt="ChromaDB"/>
+  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API"/>
+  <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google ADK"/>
+  <img src="https://img.shields.io/badge/AI_Agents-6A5ACD?style=for-the-badge&logoColor=white" alt="AI Agents"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+</p>
+
+
+
+#### 🧰 Development & Tools
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git" width="60" alt="Git"/>
   <img src="https://skillicons.dev/icons?i=github" width="60" alt="GitHub"/>
