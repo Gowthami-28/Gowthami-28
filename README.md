@@ -174,7 +174,7 @@ Ensemble Learning • Streamlit
 
 ## 📫 Connect With Me
 
-- 📧 Email: gowthmivanga@gmail.com
+- 📧 Email: gowthamivanga@gmail.com
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/gowthami-vanga/)
 
 ---
