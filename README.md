@@ -25,7 +25,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" width="60" alt="Python"/>
-<img src="./assets/sql.png" alt="SQL" width="50" height="50"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=database&logoColor=white" alt="SQL"/>
 </p>
 
 <p align="left">
