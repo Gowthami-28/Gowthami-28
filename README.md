@@ -5,7 +5,6 @@
 
 
 
-
 ---
 
 ## 👩‍💻 About Me
@@ -16,6 +15,40 @@
 - 🧠 Exploring how AI can solve real-world problems
 - 🚀 Currently working on **AI Pulse — An AI-Powered Learning Assistant**
 - 📚 Continuously learning, experimenting, and improving my skills
+
+
+
+---
+
+## 🛠️ Technical Skills
+
+### 👩‍💻 Programming & Data
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,sql,numpy,pandas" />
+</p>
+
+### 🤖 Machine Learning & AI
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
+</p>
+
+### 🧠 Generative AI & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,git,github" />
+</p>
+
+**AI & GenAI:** RAG • LangChain • ChromaDB • Gemini API • Google ADK • AI Agents
+
+### ☁️ Currently Exploring
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure,docker" />
+</p>
+
+FastAPI • Docker • Azure • CI/CD
 
 
 <!--
