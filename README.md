@@ -18,34 +18,43 @@
 
 
 
----
-
 ## 🛠️ Technical Skills
 
 ### 👩‍💻 Programming & Data
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sql,numpy,pandas" />
+  <img src="https://skillicons.dev/icons?i=python" width="60" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="60" alt="SQL"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 </p>
 
 ### 🤖 Machine Learning & AI
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="60" alt="TensorFlow"/>
+  <img src="https://skillicons.dev/icons?i=sklearn" width="60" alt="Scikit-learn"/>
 </p>
 
 ### 🧠 Generative AI & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=fastapi" width="60" alt="FastAPI"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="60" alt="Docker"/>
+  <img src="https://skillicons.dev/icons?i=git" width="60" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" width="60" alt="GitHub"/>
 </p>
 
-**AI & GenAI:** RAG • LangChain • ChromaDB • Gemini API • Google ADK • AI Agents
+**AI & GenAI:** RAG • LangChain • ChromaDB • Gemini API • Google ADK • AI Agents • Streamlit
 
 ### ☁️ Currently Exploring
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=azure,docker" />
+  <img src="https://skillicons.dev/icons?i=azure" width="60" alt="Azure"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" width="60" alt="GitHub Actions"/>
 </p>
 
 FastAPI • Docker • Azure • CI/CD
