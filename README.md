@@ -12,9 +12,9 @@
 - 🎓 B.Tech graduate in Artificial Intelligence (2023)
 - 🤖 Interested in AI/ML, Generative AI, and AI Agents
 - 🔍 Building practical applications using Python, LLMs, and RAG
-- 🧠 Exploring how AI can solve real-world problems
+- 🧠 Developing AI solutions through hands-on projects in deep learning and Generative AI
 - 🚀 Currently working on **AI Pulse — An AI-Powered Learning Assistant**
-- 📚 Continuously learning, experimenting, and improving my skills
+- 📚 Strengthening my skills in Machine Learning, Generative AI, and backend development
 
 
 
