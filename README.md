@@ -156,6 +156,17 @@ Ensemble Learning • Streamlit
 
 🔗 [View Project](https://github.com/Gowthami-28/Brain-Tumor-Diagnosis)
 
+
+
+## 📫 Connect With Me
+
+- 📧 Email: gowthmivanga@gmail.com
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/gowthami-vanga/)
+
+---
+
+💡 Open to AI/ML opportunities and freelance projects.
+
 <!--
 **Gowthami-28/Gowthami-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
