@@ -65,6 +65,33 @@ FastAPI • Docker • Azure
 
 
 
+### 📚 RAG-Based Document Q&A Chatbot
+
+A Retrieval-Augmented Generation (RAG) chatbot that allows users to ask
+questions about document content. The application retrieves relevant
+document chunks using semantic search and uses Gemini to generate
+context-aware answers.
+
+**🔧 Technologies:**
+Python • LangChain • ChromaDB • Gemini API • Embeddings •
+Semantic Search • Streamlit
+
+**✨ Key Highlights:**
+- Built a document-based question-answering chatbot using RAG.
+- Implemented document chunking with a chunk size of 500 and overlap of 50.
+- Generated embeddings using `gemini-embedding-001`.
+- Stored document embeddings in ChromaDB for semantic retrieval.
+- Retrieved the top 3 relevant chunks for each user query.
+- Used LangChain Expression Language (LCEL) to connect the retrieval
+  and generation pipeline.
+- Integrated Gemini to generate answers based on retrieved context.
+- Developed a Streamlit interface for user interaction.
+
+🔗 [View Project](https://github.com/Gowthami-28/atomic-habits-rag-chatbot
+)
+
+
+
 
 ### 🤖 AI Tool Recommender Agent
 
