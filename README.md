@@ -59,6 +59,29 @@
 
 FastAPI • Docker • Azure 
 
+
+
+## 🚀 Featured Projects
+
+### 🧠 Brain Tumor Diagnosis using Deep Learning
+
+A deep learning-based brain tumor diagnosis system that uses multiple
+Convolutional Neural Network (CNN) architectures and a weighted stacking
+ensemble to classify brain MRI images.
+
+**🔧 Technologies:**
+Python • TensorFlow • CNN • MobileNet • ResNet50 • VGG16 •
+Ensemble Learning • Streamlit
+
+**✨ Key Highlights:**
+- Developed and evaluated multiple CNN architectures.
+- Implemented a weighted stacking ensemble approach.
+- Worked with 3,000+ brain MRI images.
+- Achieved 98.77% validation accuracy.
+- Deployed the application using Streamlit.
+
+🔗 [View Project](https://github.com/Gowthami-28/Brain-Tumor-Diagnosis)
+
 <!--
 **Gowthami-28/Gowthami-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
