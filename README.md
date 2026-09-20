@@ -65,6 +65,28 @@ FastAPI • Docker • Azure
 
 
 
+### 💰 Buy or Wait? — Financial Affordability Agent
+
+An AI affordability agent built for the HackerRank Orchestrate Challenge.
+The system uses rule-based decision logic and 90-day cash-flow forecasting
+to help users evaluate whether they can afford a purchase or should wait.
+
+**🔧 Technologies:**
+Python • AI Agents • Financial Forecasting • Cash-Flow Simulation •
+Rule-Based Decision Making
+
+**✨ Key Highlights:**
+- Developed an affordability agent for purchase-related financial decisions.
+- Implemented 90-day cash-flow forecasting.
+- Used simulation to evaluate projected financial affordability.
+- Designed rule-based logic to generate Buy or Wait recommendations.
+- Explored practical applications of AI agents in personal finance.
+
+🔗 [View Project](https://github.com/Gowthami-28/hackerrank-buy-or-wait-financial-agent
+)
+
+
+
 ### 📚 RAG-Based Document Q&A Chatbot
 
 A Retrieval-Augmented Generation (RAG) chatbot that allows users to ask
