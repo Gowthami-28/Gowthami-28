@@ -63,6 +63,31 @@ FastAPI • Docker • Azure
 
 ## 🚀 Featured Projects
 
+
+
+
+### 🤖 AI Tool Recommender Agent
+
+An AI-powered recommendation agent built during the Google × Kaggle Capstone
+project using Google Agent Development Kit (ADK) and Gemini. The agent
+recommends relevant AI tools based on user requirements through a structured
+single-agent workflow.
+
+**🔧 Technologies:**
+Google ADK • Gemini 2.5 Flash • Python • Agentic AI • Prompt Engineering • APIs
+
+**✨ Key Highlights:**
+- Built an AI agent using Google Agent Development Kit (ADK).
+- Integrated Gemini 2.5 Flash for AI-powered recommendations.
+- Designed a structured prompt for consistent agent responses.
+- Implemented exponential backoff to handle transient API errors,
+  including HTTP 429, 500, 503, and 504.
+- Explored agent-based workflows and practical GenAI application development.
+
+🔗 [View Project](https://github.com/Gowthami-28/ai-tool-recommender)
+
+
+
 ### 🧠 Brain Tumor Diagnosis using Deep Learning
 
 A deep learning-based brain tumor diagnosis system that uses multiple
