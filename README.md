@@ -14,7 +14,7 @@
 - 🤖 Interested in AI/ML, Generative AI, and AI Agents
 - 🔍 Building practical applications using Python, LLMs, and RAG
 - 🧠 Exploring how AI can solve real-world problems
-- 🚀 Currently working on **AI Pulse — Personal AI Learning Digest**
+- 🚀 Currently working on **AI Pulse — An AI-Powered Learning Assistant**
 - 📚 Continuously learning, experimenting, and improving my skills
 
 
