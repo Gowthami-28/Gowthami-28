@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi👋  I'm Gowthami Vanga
+### AI/ML Developer | GenAI Enthusiast | Building Intelligent Applications
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+AI+%26+GenAI+Applications;Exploring+RAG+%26+AI+Agents;Turning+Ideas+Into+AI+Projects;Learning%2C+Building%2C+Improving+Every+Day" alt="Typing SVG" />
+</div>
 
 <!--
 **Gowthami-28/Gowthami-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
