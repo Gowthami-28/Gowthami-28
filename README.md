@@ -18,13 +18,14 @@
 
 
 
+
 ## 🛠️ Technical Skills
 
 ### 👩‍💻 Programming & Data
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python" width="60" alt="Python"/>
-  <img src="https://skillicons.dev/icons?i=mysql" width="60" alt="SQL"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="40" alt="SQL"/>
 </p>
 
 <p align="left">
@@ -42,8 +43,6 @@
 ### 🧠 Generative AI & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi" width="60" alt="FastAPI"/>
-  <img src="https://skillicons.dev/icons?i=docker" width="60" alt="Docker"/>
   <img src="https://skillicons.dev/icons?i=git" width="60" alt="Git"/>
   <img src="https://skillicons.dev/icons?i=github" width="60" alt="GitHub"/>
 </p>
@@ -53,12 +52,13 @@
 ### ☁️ Currently Exploring
 
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi" width="60" alt="FastAPI"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="60" alt="Docker"/>
   <img src="https://skillicons.dev/icons?i=azure" width="60" alt="Azure"/>
   <img src="https://skillicons.dev/icons?i=githubactions" width="60" alt="GitHub Actions"/>
 </p>
 
 FastAPI • Docker • Azure • CI/CD
-
 
 <!--
 **Gowthami-28/Gowthami-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
