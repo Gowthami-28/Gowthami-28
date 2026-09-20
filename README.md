@@ -55,7 +55,7 @@
   <img src="https://skillicons.dev/icons?i=fastapi" width="60" alt="FastAPI"/>
   <img src="https://skillicons.dev/icons?i=docker" width="60" alt="Docker"/>
   <img src="https://skillicons.dev/icons?i=azure" width="60" alt="Azure"/>
-  <img src="https://skillicons.dev/icons?i=githubactions" width="60" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
 </p>
 
 FastAPI • Docker • Azure • CI/CD
