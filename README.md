@@ -78,6 +78,26 @@ FastAPI • Docker • Azure
 ## 🚀 Featured Projects
 
 
+🚀 AI Pulse — Personal AI/ML Assistant
+
+A personal AI/ML assistant that collects AI-related articles, filters them for relevance, analyzes them using Gemini, ranks them based on relevance, and sends personalized updates by email.
+
+🔧 Technologies: Python • RSS • Google Gemini API • Resend API • AI/ML Content Analysis • Automation
+
+✨ Key Highlights:
+
+Built an AI/ML assistant to automatically collect relevant AI developments.
+Integrated the Google AI Blog RSS feed for article collection.
+Implemented AI/ML relevance filtering to identify useful articles.
+Used Google Gemini to analyze articles and generate summaries and learning recommendations.
+Implemented relevance scoring and ranking to prioritize important updates.
+Integrated Resend API to deliver personalized email updates.
+Designed the project for future expansion with multiple sources, automation, Docker, and Azure deployment.
+
+🔗 [View Project](https://github.com/Gowthami-28/AI-Pulse)
+
+
+
 
 ### 💰 Buy or Wait? — Financial Affordability Agent
 
@@ -96,8 +116,7 @@ Rule-Based Decision Making
 - Designed rule-based logic to generate Buy or Wait recommendations.
 - Explored practical applications of AI agents in personal finance.
 
-🔗 [View Project](https://github.com/Gowthami-28/hackerrank-buy-or-wait-financial-agent
-)
+🔗 [View Project](https://github.com/Gowthami-28/hackerrank-buy-or-wait-financial-agent)
 
 
 
@@ -123,8 +142,7 @@ Semantic Search • Streamlit
 - Integrated Gemini to generate answers based on retrieved context.
 - Developed a Streamlit interface for user interaction.
 
-🔗 [View Project](https://github.com/Gowthami-28/atomic-habits-rag-chatbot
-)
+🔗 [View Project](https://github.com/Gowthami-28/atomic-habits-rag-chatbot)
 
 
 
