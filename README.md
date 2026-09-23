@@ -78,21 +78,21 @@ FastAPI • Docker • Azure
 ## 🚀 Featured Projects
 
 
-🚀 AI Pulse — Personal AI/ML Assistant
+### 🚀 AI Pulse — Personal AI/ML Assistant
 
 A personal AI/ML assistant that collects AI-related articles, filters them for relevance, analyzes them using Gemini, ranks them based on relevance, and sends personalized updates by email.
 
-🔧 Technologies: Python • RSS • Google Gemini API • Resend API • AI/ML Content Analysis • Automation
+**🔧 Technologies:**  Python • RSS • Google Gemini API • Resend API • AI/ML Content Analysis • Automation
 
-✨ Key Highlights:
+**✨ Key Highlights:**
 
-Built an AI/ML assistant to automatically collect relevant AI developments.
-Integrated the Google AI Blog RSS feed for article collection.
-Implemented AI/ML relevance filtering to identify useful articles.
-Used Google Gemini to analyze articles and generate summaries and learning recommendations.
-Implemented relevance scoring and ranking to prioritize important updates.
-Integrated Resend API to deliver personalized email updates.
-Designed the project for future expansion with multiple sources, automation, Docker, and Azure deployment.
+- Built an AI/ML assistant to automatically collect relevant AI developments.
+- Integrated the Google AI Blog RSS feed for article collection.
+- Implemented AI/ML relevance filtering to identify useful articles.
+- Used Google Gemini to analyze articles and generate summaries and learning recommendations.
+- Implemented relevance scoring and ranking to prioritize important updates.
+- Integrated Resend API to deliver personalized email updates.
+- Designed the project for future expansion with multiple sources, automation, Docker, and Azure deployment.
 
 🔗 [View Project](https://github.com/Gowthami-28/AI-Pulse)
 
