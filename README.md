@@ -86,13 +86,13 @@ A personal AI/ML assistant that collects AI-related articles, filters them for r
 
 **✨ Key Highlights:**
 
-- Built an AI/ML assistant to automatically collect relevant AI developments.
-- Integrated the Google AI Blog RSS feed for article collection.
-- Implemented AI/ML relevance filtering to identify useful articles.
-- Used Google Gemini to analyze articles and generate summaries and learning recommendations.
-- Implemented relevance scoring and ranking to prioritize important updates.
-- Integrated Resend API to deliver personalized email updates.
-- Designed the project for future expansion with multiple sources, automation, Docker, and Azure deployment.
+- Built an automated pipeline to collect AI/ML articles from Google AI Blog, OpenAI, Google DeepMind, Hugging Face, and NVIDIA Developer Blog.
+- Implemented recency filtering, relevance filtering, and URL-based deduplication.
+- Integrated Google Gemini to screen and analyze articles and generate summaries.
+- Developed article ranking to prioritize useful AI/ML learning updates.
+- Built email generation and delivery using Resend.
+- Containerized the application with Docker.
+- Configured GitHub Actions for scheduled and manual execution, with successful automated runs and email delivery.
 
 🔗 [View Project](https://github.com/Gowthami-28/AI-Pulse)
 
