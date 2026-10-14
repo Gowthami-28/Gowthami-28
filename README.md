@@ -82,7 +82,7 @@ FastAPI • Docker • Azure
 
 A personal AI/ML assistant that collects AI-related articles, filters them for relevance, analyzes them using Gemini, ranks them based on relevance, and sends personalized updates by email.
 
-**🔧 Technologies:**  Python • RSS • Google Gemini API • Resend API • AI/ML Content Analysis • Automation
+**🔧 Technologies:**  Python • Google Gemini API • RSS Feeds • Docker • GitHub Actions • Resend API
 
 **✨ Key Highlights:**
 
